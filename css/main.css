@@ -48,7 +48,8 @@ header {
 .phone {
     font-weight: bold;
     font-size: 18px;
-    float: right;
+    float: left;
+    margin-left: 350px;
 }
 .listl{
     max-width: 360px;
@@ -216,14 +217,14 @@ footer{
     height: 20px;
 }
 .footer{
-    float: right;
+    float: left;
 }
 .time{
     color: #ffffff;
     font-family: "Arial MT";
     font-size: 13px;
     font-weight: 400;
-    margin-right: 180px;
+    margin-right: 100px;
 }
 .a1{
     color: #ffffff;
@@ -233,7 +234,7 @@ footer{
     border: 1px solid #ffffff;
     padding: 14px 17px 14px 18px;
     font-weight: 400;
-    margin-right: 140px;
+    margin-right: 100px;
     text-decoration: none;
 }
 .a2{
@@ -254,7 +255,7 @@ footer{
     font-size: 12px;
     padding: 15px 24px 15px 23px;
     font-weight: 400;
-    margin-right: 204px;
+    margin-right: 120px;
 
 }
 .tex2{
